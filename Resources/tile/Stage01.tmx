@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="200" height="10" tilewidth="48" tileheight="48">
+ <tileset firstgid="1" name="set48" tilewidth="48" tileheight="48" spacing="1" margin="1">
+  <image source="set48.png" width="844" height="148"/>
+ </tileset>
+ <layer name="map" width="200" height="10">
+  <properties>
+   <property name="wall" value="True"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt2UEKwCAMBEAp/f+b/UClSozVMgO5iKJ7yCWWwomuybX6LQAAAAAA8KWseXp0Lh65f4d5/U7/F9lGs9zBva3zT+urs+mPPn/vj9n5supNBY0sAeE=
+  </data>
+ </layer>
+ <layer name="block" width="200" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzt2FsKgCAQQNEhaAN91AJK97/EiAzCNLWSzO6BgdR8UExoIoBIa8JFB9qBL9EmYsu55t2bMswHALnY+wH2B8BqyYXOquuk3Byx1xrbBqRy5cam5Bz5A3K9PLyTe3h+6caHxlEm9uWU69g5albTv6HBU98n9HGN4Rv3LVf3MG1khDQncWddNlfubfeqk361U3L89qEcT+eHD+fqus2jSAVZ
+  </data>
+ </layer>
+ <layer name="trap01" width="200" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzt0rEJAAAIA0FncP9hxRXERrlrvwokAgAAAICWw3bNpy3QfBoAgC0FwK0ASQ==
+  </data>
+ </layer>
+ <layer name="trap02" width="200" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzt0rEJAAAIA0FncP9hxRXERrlrvwokAgAAAICWw3bNpy3QfBoAgC0FwK0ASQ==
+  </data>
+ </layer>
+ <layer name="trap03" width="200" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzt0rEJAAAIA0FncP9hxRXERrlrvwokAgAAAICWw3bNpy3QfBoAgC0FwK0ASQ==
+  </data>
+ </layer>
+</map>
