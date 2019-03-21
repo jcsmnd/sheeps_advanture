@@ -1,5 +1,5 @@
 # sheeps_advanture
-builty by cocos2d-x 2013-Dec
+built an android mobile side-scrolling game using cocos2d-x in December, 2013
 
 Youtube DEMO
 https://youtu.be/tJ_WzrjPf2E
